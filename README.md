@@ -24,7 +24,7 @@ Stack:
 - TanStack Query + localStorage persistence
 
 Layout
-
+```
 src/
 ├── app/         routes (pages + route handlers)
 ├── providers/   global context (query client, theme)

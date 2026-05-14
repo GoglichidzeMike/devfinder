@@ -7,6 +7,7 @@ Search GitHub users, browse their public repos.
 ```bash
 pnpm install
 pnpm dev
+```
 
 Open http://localhost:3000.
 
